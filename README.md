@@ -1,2 +1,2 @@
-# front-end-store
-segundo proyecto del curso
+# Front End Store
+Publicado en https://segundoproyectolaruffa.netlify.app/
