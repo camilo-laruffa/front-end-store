@@ -248,6 +248,12 @@ h3 {
     padding: 1rem;
     appearance: none;
 }
+::placeholder {
+    color: var(--blanco);
+}
+optgroup {
+    background-color: var(--primario);
+}
 .formulario__submit {
     background-color: var(--secundario);
     border: none;
