@@ -130,10 +130,6 @@ h3 {
     text-align: center;
     padding: 1rem;
 }
-
-.producto__imagen {
-}
-
 .producto__informacion {
     display: flex;
     flex-direction: column;
@@ -267,4 +263,3 @@ optgroup {
     cursor: pointer;
     background-color: var(--secundarioOscuro);
 }
-/* asd */
